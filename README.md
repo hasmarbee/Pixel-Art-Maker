@@ -17,4 +17,4 @@ This repository is the starter code for _all_ Udacity students. Therefore, we mo
 
 
 ## Link to my Project on github
-https://github.com/hasmarbee/Pixel-Art-Maker/commit/a7888a2a862663c7d47aed30b26979a68d7bfd50
+https://hasmarbee.github.io/Pixel-Art-Maker/
