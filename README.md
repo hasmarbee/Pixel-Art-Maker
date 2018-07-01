@@ -1,19 +1,24 @@
 # Pixel Art Maker Project
 
-## Table of Contents
+## Table of Content
+Grid Height,Grid width
+submit
+pick a color
 
-* [Instructions](#instructions)
-* [Contributing](#contributing)
 
 ## Instructions
 
-To get started, open `designs.js` and start building out the app's functionality.
+To get started,
 
-For specific, detailed instructions, look at the project instructions in the [Udacity Classroom](https://classroom.udacity.com/me).
+*Click on grid width and height to select any number from 1 upwards
 
-## Contributing
+*Click submit button to create a table
 
-This repository is the starter code for _all_ Udacity students. Therefore, we most likely will not accept pull requests.
+*Click on pick a color to choose a color of your choice
+
+*Fill the cells of the table with the chosen color
+
+*Add or delete color by clicking on the cell
 
 
 ## Link to my Project on github
